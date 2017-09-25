@@ -10,11 +10,11 @@ import com.sun.org.apache.xpath.internal.SourceTree;
  * To change this template use File | Settings | File Templates.
  */
 public class TestIdeaGit {
-  
-  System.out.println("hello world");
+
 
     public static void main(String[] args) {
-        System.out.println();
+
+        System.out.println("hello world");
     }
 
 
