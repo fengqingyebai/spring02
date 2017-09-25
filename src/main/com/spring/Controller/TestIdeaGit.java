@@ -1,5 +1,7 @@
 package spring.Controller;
 
+import com.sun.org.apache.xpath.internal.SourceTree;
+
 /**
  * Created by IntelliJ IDEA.
  * User: link
@@ -8,5 +10,10 @@ package spring.Controller;
  * To change this template use File | Settings | File Templates.
  */
 public class TestIdeaGit {
+
+    public static void main(String[] args) {
+        System.out.println();
+    }
+
 
 }
