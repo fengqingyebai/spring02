@@ -8,5 +8,7 @@ package spring.Controller;
  * To change this template use File | Settings | File Templates.
  */
 public class TestIdeaGit {
+  
+  System.out.println("hello world");
 
 }
